@@ -3,7 +3,7 @@
 *Please read carefully. Not knowing the rules is not an excuse.*
 
 **1. Follow Discord’s Terms of Service & Community Guidelines**
-- [Discord's Tos](https://discord.com/terms)
+- [Discord's ToS](https://discord.com/terms)
 - [Discord's Community Guidelines](https://discord.com/guidelines)
 
 **2. No NSFW, Gore, or Explicit Content**
